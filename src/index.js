@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import AuthProvider from '../src/context/AuthProvider';
+
 import {
   QueryClient,
   QueryClientProvider,
